@@ -1,0 +1,2 @@
+# SEScripts
+SpaceEngineers scripts

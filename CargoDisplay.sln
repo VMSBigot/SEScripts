@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoDisplay", "CargoDisplay\CargoDisplay.csproj", "{64CF609D-AB69-44AE-B2ED-1D9910241574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CF609D-AB69-44AE-B2ED-1D9910241574}.Debug|x64.ActiveCfg = Debug|x64
+		{64CF609D-AB69-44AE-B2ED-1D9910241574}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7844DCF-938B-4B67-BD13-8CC11A6196BF}
+	EndGlobalSection
+EndGlobal

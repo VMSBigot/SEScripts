@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlockScript", "AirlockScript\AirlockScript.csproj", "{B255D589-8DBA-4602-86EA-8A631701A880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B255D589-8DBA-4602-86EA-8A631701A880}.Debug|x64.ActiveCfg = Debug|x64
+		{B255D589-8DBA-4602-86EA-8A631701A880}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED73ADE-A2B0-4011-93F6-30EE05DF58F0}
+	EndGlobalSection
+EndGlobal

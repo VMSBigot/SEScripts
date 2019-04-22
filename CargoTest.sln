@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoTest", "CargoTest\CargoTest.csproj", "{6CC9252D-28E9-4013-9EB0-B56670D79F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC9252D-28E9-4013-9EB0-B56670D79F3C}.Debug|x64.ActiveCfg = Debug|x64
+		{6CC9252D-28E9-4013-9EB0-B56670D79F3C}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE2145E9-F724-4A97-B7FC-88ABC9DFFFA8}
+	EndGlobalSection
+EndGlobal
